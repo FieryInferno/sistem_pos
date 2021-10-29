@@ -14,4 +14,8 @@
     <string name="edit_password">Ubah Password</string>
     <string name="dummy_email">jimi@gmail.com</string>
     <string name="back_to_dashboard">back to dashboard</string>
+    <string name="name">Nama</string>
+    <string name="email">Email</string>
+    <string name="save">Simpan</string>
+    <string name="todo">TODO</string>
 </resources>
