@@ -18,4 +18,9 @@ public class Cart extends AppCompatActivity {
         Intent intent = new Intent(this, DashboardUser.class);
         startActivity(intent);
     }
+
+    public void paymentConfirmation(View view) {
+        Intent intent = new Intent(this, PaymentConfirmation.class);
+        startActivity(intent);
+    }
 }

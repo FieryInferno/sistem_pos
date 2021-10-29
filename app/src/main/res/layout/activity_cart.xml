@@ -190,6 +190,7 @@
         android:layout_marginBottom="26dp"
         android:background="@color/purple_200"
         android:text="@string/payment_confirmation"
+        android:onClick="paymentConfirmation"
         android:textColor="@color/white"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

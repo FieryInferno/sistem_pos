@@ -24,4 +24,6 @@
     <string name="payment_confirmation">Konfirmasi Pembayaran</string>
     <string name="do_payment_confirmation">Lakukan konfirmasi pembayaran</string>
     <string name="are_you_sure">Sudah yakin dengan pesanan mu?</string>
+    <string name="items_you_choose">Barang yang anda pilih</string>
+    <string name="text_payment_confirmation">Barang sudah sesuai? Tekan tombol dibawah ini untuk mengirimkan permintaan pembayaran</string>
 </resources>
