@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">POS</string>
+    <string name="daftar">Daftar</string>
+    <string name="daftarkan_akun">Daftarkan Akun</string>
+    <string name="welcome">Selamat Datang</string>
+    <string name="scan_barcode">Scan Barcode</string>
+    <string name="desc_riwayat_transaksi">Digunakan untuk melihat riwayat transaksi</string>
+    <string name="profile">Profile</string>
+    <string name="cart">Cart</string>
+    <string name="scan">Scan</string>
+    <string name="dummy_name">Jimi Henderson</string>
+    <string name="logout">logout</string>
+</resources>
