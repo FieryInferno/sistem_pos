@@ -10,4 +10,8 @@
     <string name="scan">Scan</string>
     <string name="dummy_name">Jimi Henderson</string>
     <string name="logout">logout</string>
+    <string name="edit_profile">Ubah Profile</string>
+    <string name="edit_password">Ubah Password</string>
+    <string name="dummy_email">jimi@gmail.com</string>
+    <string name="back_to_dashboard">back to dashboard</string>
 </resources>
