@@ -65,6 +65,7 @@
         android:layout_height="100dp"
         android:layout_marginEnd="23dp"
         android:layout_marginBottom="31dp"
+        android:onClick="cart"
         app:layout_constraintBottom_toTopOf="@+id/imageButton5"
         app:layout_constraintEnd_toStartOf="@+id/imageButton4"
         app:layout_constraintStart_toEndOf="@+id/imageButton2"

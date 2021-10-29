@@ -21,4 +21,7 @@
     <string name="old_password">Password Lama</string>
     <string name="new_password">Password Baru</string>
     <string name="confirmation_password">Ulang Password</string>
+    <string name="payment_confirmation">Konfirmasi Pembayaran</string>
+    <string name="do_payment_confirmation">Lakukan konfirmasi pembayaran</string>
+    <string name="are_you_sure">Sudah yakin dengan pesanan mu?</string>
 </resources>

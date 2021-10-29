@@ -23,4 +23,9 @@ public class DashboardUser extends AppCompatActivity {
         Intent intent = new Intent(this, Profile.class);
         startActivity(intent);
     }
+
+    public void cart(View view) {
+        Intent intent = new Intent(this, Cart.class);
+        startActivity(intent);
+    }
 }

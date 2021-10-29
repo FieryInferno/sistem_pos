@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
+            android:name=".Cart"
+            android:exported="true" />
+        <activity
             android:name=".EditPassword"
             android:exported="true" />
         <activity
