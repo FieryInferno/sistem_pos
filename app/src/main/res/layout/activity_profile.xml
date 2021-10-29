@@ -79,6 +79,7 @@
         android:background="@color/purple_200"
         android:text="@string/edit_password"
         android:textColor="@color/white"
+        android:onClick="ubahPassword"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"

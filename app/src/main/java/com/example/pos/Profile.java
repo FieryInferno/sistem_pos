@@ -23,4 +23,9 @@ public class Profile extends AppCompatActivity {
         Intent intent = new Intent(this, EditProfile.class);
         startActivity(intent);
     }
+
+    public void ubahPassword(View view) {
+        Intent intent = new Intent(this, EditPassword.class);
+        startActivity(intent);
+    }
 }
