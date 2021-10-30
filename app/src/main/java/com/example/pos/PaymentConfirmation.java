@@ -18,4 +18,9 @@ public class PaymentConfirmation extends AppCompatActivity {
         Intent intent = new Intent(this, Cart.class);
         startActivity(intent);
     }
+
+    public void confirmationSuccess(View view) {
+        Intent intent = new Intent(this, ConfirmationSuccess.class);
+        startActivity(intent);
+    }
 }

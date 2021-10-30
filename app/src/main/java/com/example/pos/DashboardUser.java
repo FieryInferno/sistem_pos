@@ -28,4 +28,9 @@ public class DashboardUser extends AppCompatActivity {
         Intent intent = new Intent(this, Cart.class);
         startActivity(intent);
     }
+
+    public void transactionHistory(View view) {
+        Intent intent = new Intent(this, TransactionHistory.class);
+        startActivity(intent);
+    }
 }

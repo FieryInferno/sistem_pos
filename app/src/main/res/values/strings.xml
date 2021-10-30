@@ -26,4 +26,6 @@
     <string name="are_you_sure">Sudah yakin dengan pesanan mu?</string>
     <string name="items_you_choose">Barang yang anda pilih</string>
     <string name="text_payment_confirmation">Barang sudah sesuai? Tekan tombol dibawah ini untuk mengirimkan permintaan pembayaran</string>
+    <string name="success_payment_conf">Konfirmasi Dikirim Silahkan Lakukan Pembayaran Cash</string>
+    <string name="cont">Lanjutkan</string>
 </resources>

@@ -12,6 +12,12 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
+            android:name=".TransactionHistory"
+            android:exported="true" />
+        <activity
+            android:name=".ConfirmationSuccess"
+            android:exported="true" />
+        <activity
             android:name=".PaymentConfirmation"
             android:exported="true" />
         <activity
