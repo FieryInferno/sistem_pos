@@ -23,4 +23,9 @@ public class DashboardAdmin extends AppCompatActivity {
         Intent intent = new Intent(this, ListPaymentConfirmation.class);
         startActivity(intent);
     }
+
+    public void generateQRCode(View view) {
+        Intent intent = new Intent(this, GenerateQRCode.class);
+        startActivity(intent);
+    }
 }

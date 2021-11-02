@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".DashboardUser">
+    tools:context=".DashboardAdmin">
 
     <ImageButton
         android:id="@+id/imageButton"
@@ -53,12 +53,12 @@
         android:layout_marginEnd="20dp"
         android:layout_marginBottom="18dp"
         android:contentDescription="@string/cart"
-        android:onClick="cart"
+        android:onClick="generateQRCode"
         app:layout_constraintBottom_toTopOf="@+id/imageButton5"
         app:layout_constraintEnd_toStartOf="@+id/imageButton4"
         app:layout_constraintStart_toEndOf="@+id/imageButton2"
         app:layout_constraintTop_toBottomOf="@+id/myPict"
-        app:srcCompat="@drawable/ic_baseline_shopping_cart_24" />
+        app:srcCompat="@drawable/ic_baseline_qr_code_24" />
 
     <ImageButton
         android:id="@+id/imageButton4"
