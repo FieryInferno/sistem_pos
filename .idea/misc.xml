@@ -16,6 +16,8 @@
         <entry key="app/src/main/res/layout/activity_register.xml" value="0.21" />
         <entry key="app/src/main/res/layout/activity_register_success.xml" value="0.2" />
         <entry key="app/src/main/res/layout/activity_scan_qr.xml" value="0.18020833333333333" />
+        <entry key="app/src/main/res/layout/activity_transaction.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_transaction_history.xml" value="0.16510416666666666" />
       </map>
     </option>
   </component>
