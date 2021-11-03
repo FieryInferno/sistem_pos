@@ -28,4 +28,9 @@ public class DashboardAdmin extends AppCompatActivity {
         Intent intent = new Intent(this, GenerateQRCode.class);
         startActivity(intent);
     }
+
+    public void transactionHistory(View view) {
+        Intent intent = new Intent(this, TransactionHistoryAdmin.class);
+        startActivity(intent);
+    }
 }

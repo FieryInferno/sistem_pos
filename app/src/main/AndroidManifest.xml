@@ -12,6 +12,12 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
+            android:name=".DetailTransactionHistory"
+            android:exported="true" />
+        <activity
+            android:name=".TransactionHistoryAdmin"
+            android:exported="true" />
+        <activity
             android:name=".ViewQRCode"
             android:exported="true" />
         <activity
