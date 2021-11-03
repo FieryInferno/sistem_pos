@@ -25,11 +25,34 @@
         android:layout_width="250dp"
         android:layout_height="0dp"
         android:layout_centerHorizontal="true"
-        android:layout_marginBottom="287dp"
+        android:layout_marginBottom="22dp"
         android:contentDescription="qr_code"
-        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintBottom_toTopOf="@+id/button9"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageButton6" />
+
+    <Button
+        android:id="@+id/button9"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:text="@string/save_barcode"
+        app:layout_constraintBottom_toTopOf="@+id/button10"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/idIVQrcode" />
+
+    <Button
+        android:id="@+id/button10"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="153dp"
+        android:text="@string/back_to_dashboard"
+        android:onClick="dashboardAdmin"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/button9" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
